@@ -29,4 +29,3 @@ All the syntax and its usage are in the program.
  #### 8. Find
  ```s.find("e");   // 1```
  
-  
