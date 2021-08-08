@@ -13,3 +13,7 @@ All the syntax and its usage are in the program.
    ```
    string s = "Hello World";
    ```
+  #### Functions:
+  1. String Length:  
+                     ``` int len = s.length(); ``` returns the lenght of the string 
+  
