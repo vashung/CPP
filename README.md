@@ -6,3 +6,10 @@ All the syntax and its usage are in the program.
 
 ## STL [ Standard Template Library ]
 ## 1. Array
+
+## 2. Strings
+  Strings are like containers
+  #### Declaration
+   '''
+   string s = "Hello World";
+   '''
