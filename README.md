@@ -9,7 +9,7 @@ All the syntax and its usage are in the program.
 
 ## 2. Strings
   Strings are like containers
-  #### Declaration
-   '''
+  #### Declaration:
+   ```
    string s = "Hello World";
-   '''
+   ```
