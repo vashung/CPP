@@ -14,6 +14,7 @@ All the syntax and its usage are in the program.
    string s = "Hello World";
    ```
   #### Functions:
-  1. String Length:  
-                     ``` int len = s.length(); ``` returns the lenght of the string 
+  1. String Length :          ``` int len = s.length();    // returns the length of the string ```
+  2. Swap          :           ``` s1.swap(s2);            // swap string s1 and s2     ```
+  3. Size of String:          ``` int size = s.size();    // returns the size of the string```
   
