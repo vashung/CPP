@@ -10,7 +10,7 @@ All the syntax and its usage are in the program.
 ## 2. Strings
   Strings are like containers
   #### Declaration:
-   ```
+   ```c++
    string s = "Hello World";
    ```
   #### Functions:
@@ -26,7 +26,7 @@ All the syntax and its usage are in the program.
   ```s.insert(2,"K");     // HeKllo World```
   #### 7. Append
  ```s.append(" C++"); // HeKllo World C++ ```
- ### 8. Find
+ #### 8. Find
  ```s.find("e");   // 1```
  
   
